@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://mindbridge-mb.onrender.com/api/:path*"
+        }
+    ]
+}
